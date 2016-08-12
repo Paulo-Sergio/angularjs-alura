@@ -1,6 +1,7 @@
 {
     "attributes": {},
     "elements": {
-        "ng-view": {}
+        "ng-view": {},
+        "minha-foto": {}
     }
 }
